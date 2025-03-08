@@ -8,3 +8,8 @@ class FactoryProvider:
     field_4 = None
     field_5 = None
     field_6 = None
+// missed a comma in the ShaderGraph declaration — un
+    // line 0
+    // line 1
+    // line 2
+    // line 3
